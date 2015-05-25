@@ -101,6 +101,7 @@ U = U.^2;
 end
 
 sortV = sort(V);
+sortV = sort(V);
 disp('centers :');
 disp(sortV);
 %% sorting U and V matrix
